@@ -1,0 +1,61 @@
+{
+  "activities": [
+    {
+      "id": 1,
+      "name": "Body Gain",
+      "icon": "body_gain.png"
+    },
+    {
+      "id": 2,
+      "name": "Yoga",
+      "icon": "yoga.png"
+    }
+  ],
+  "instructors": [
+    {
+      "id": 1,
+      "name": "Fatma",
+      "photo": "https://images.unsplash.com/photo-1511367461989-f85a21fda167?auto=format&fit=facearea&w=256&h=256&facepad=2"
+    },
+    {
+      "id": 2,
+      "name": "Ryan",
+      "photo": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?auto=format&fit=facearea&w=256&h=256&facepad=2"
+    },
+    {
+      "id": 3,
+      "name": "Alexa",
+      "photo": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?auto=format&fit=facearea&w=256&h=256&facepad=2"
+    },
+    {
+      "id": 4,
+      "name": "George",
+      "photo": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=facearea&w=256&h=256&facepad=2"
+    },
+    {
+      "id": 5,
+      "name": "Andre",
+      "photo": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=facearea&w=256&h=256&facepad=2"
+    }
+  ],
+  "classes": [
+    {
+      "id": 1,
+      "activity": "Body Combat",
+      "location": "BXC Mall",
+      "instructor": "Arif",
+      "start": "08:00",
+      "end": "09:30",
+      "slots": 2
+    },
+    {
+      "id": 2,
+      "activity": "Vinyasa Yoga",
+      "location": "BXC Mall",
+      "instructor": "Arif",
+      "start": "08:00",
+      "end": "09:30",
+      "slots": 10
+    }
+  ]
+}
