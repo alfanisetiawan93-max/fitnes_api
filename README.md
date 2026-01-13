@@ -26,6 +26,9 @@ This is a Node.js project with login and register endpoints.
    ```
 3. The server runs on port 3000.
 
+## Swagger
+http://localhost:3000/api-docs/
+
 ## User Storage
 - Users are stored in `users.json` in the project root.
 
